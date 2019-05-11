@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ronaldofas</title>
+		<description>Stylish Jekyll Theme</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Olá Mundo!</title>
+				<description>&lt;h1 id=&quot;olá-mundo&quot;&gt;&lt;strong&gt;Olá Mundo!!!&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;E vamos começar&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hello World (Olá Mundo nas terras tupiniquins…) é o termo que todos os novatos em programação usam em seu primeiro programa.&lt;br /&gt;
+Quando começamos a aprender algoritmos, nossa primeira linguagem de programação ou até aprendendo uma nova linguagem, com certeza vamos fazer nosso primeiro teste com essa frase!&lt;br /&gt;
+Dizem algumas pessoas (não, não quero citar fontes, pesquise!) que o primeira programa rodado no primeiro computador foi um simples “Hello World!”.&lt;/p&gt;
+
+&lt;p&gt;Por isso escolhi esse como meu primeiro post nesse blog, esse é meu “Hello World!”.&lt;/p&gt;
+
+&lt;p&gt;Nesse blog pretendo compartilhar minha experiências com o mundo open source, desenvolvimento de software e talvez assuntos aleatório que eu julgar interessantes. Espero que seja útil para você que está chegando agora e fique a vontade para comentar todas as postagens, agradeço muito se você o fizer!&lt;/p&gt;
+</description>
+				<pubDate>Thu, 02 May 2019 00:00:00 -0300</pubDate>
+				<link>/diversos/2019/05/02/Ol%C3%A1-Mundo.html</link>
+				<guid isPermaLink="true">/diversos/2019/05/02/Ol%C3%A1-Mundo.html</guid>
+			</item>
+		
+			<item>
+				<title>ronaldofas</title>
+				<description></description>
+				<pubDate>Sun, 25 May 2014 00:00:00 -0300</pubDate>
+				<link>/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/25/oh-yes.html</link>
+				<guid isPermaLink="true">/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/25/oh-yes.html</guid>
+			</item>
+		
+			<item>
+				<title>ronaldofas</title>
+				<description></description>
+				<pubDate>Sat, 24 May 2014 00:00:00 -0300</pubDate>
+				<link>/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/24/whateva.html</link>
+				<guid isPermaLink="true">/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/24/whateva.html</guid>
+			</item>
+		
+			<item>
+				<title>ronaldofas</title>
+				<description></description>
+				<pubDate>Fri, 23 May 2014 00:00:00 -0300</pubDate>
+				<link>/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/23/hey-there.html</link>
+				<guid isPermaLink="true">/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/23/hey-there.html</guid>
+			</item>
+		
+			<item>
+				<title>ronaldofas</title>
+				<description></description>
+				<pubDate>Thu, 22 May 2014 00:00:00 -0300</pubDate>
+				<link>/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/22/humor.html</link>
+				<guid isPermaLink="true">/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/22/humor.html</guid>
+			</item>
+		
+			<item>
+				<title>ronaldofas</title>
+				<description></description>
+				<pubDate>Wed, 21 May 2014 00:00:00 -0300</pubDate>
+				<link>/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/21/bleh.html</link>
+				<guid isPermaLink="true">/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/21/bleh.html</guid>
+			</item>
+		
+			<item>
+				<title>ronaldofas</title>
+				<description></description>
+				<pubDate>Tue, 20 May 2014 00:00:00 -0300</pubDate>
+				<link>/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/20/blah.html</link>
+				<guid isPermaLink="true">/vendor/bundle/ruby/2.5.0/gems/jekyll-paginate-1.1.0/spec/source/2014/05/20/blah.html</guid>
+			</item>
+		
+	</channel>
+</rss>

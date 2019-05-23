@@ -268,9 +268,11 @@ Dizem algumas pessoas (não, não quero citar fontes, pesquise!) que o primeira 
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'ronaldofas-github-io';
 
-    var disqus_identifier = '/KommunalvalFin';
-    var disqus_title = 'How to find your candidate in the Finnish municipal elections 2017';
-    var disqus_url = 'http://vrepin.org/vr/KommunalvalFin/';
+        var disqus_config = function () {
+        this.page.url = "https://ronaldofas.github.io/diversos/2019/05/02/Ola-Mundo.html";
+        this.page.identifier = '/diversos/2019/05/02/Ola-Mundo.html';
+        this.page.title = 'ronaldofas';
+    };
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {

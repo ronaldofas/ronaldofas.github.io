@@ -7,6 +7,66 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Instalando o Jekyll no Linux Mint</title>
+				<description>&lt;h1 id=&quot;instalando-o-jekyll-no-linux-mint&quot;&gt;Instalando o Jekyll no Linux Mint&lt;/h1&gt;
+&lt;p&gt;Olá!&lt;/p&gt;
+
+&lt;p&gt;Nesse post quero documentar como instalei e configurei o Jekyllrb &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;https://jekyllrb.com/&lt;/a&gt; e assim poder criar um site estático para fazer postagens de tópicos, como esse blog em que você está lendo essa postagem.&lt;/p&gt;
+
+&lt;p&gt;Inicialmente vou fazer esse tutorial usando o &lt;strong&gt;Linux Mint&lt;/strong&gt;, sistema operacional que eu uso e dou preferência nas minhas atividades diárias. Mas posteriormente posso pensar em fazer um novo tutorial para windows.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vamos lá! Mãos a obra!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A primeira coisa que fiz foi criar uma máquina virtual com o Linux Mint 19.1 que você pode baixar em &lt;a href=&quot;https://www.linuxmint.com.br/&quot;&gt;https://www.linuxmint.com.br&lt;/a&gt;, o processo de criação da VM e instalação do linux mint não será explicado neste post, até porque existem vários posts como esse espalhados pela internet, vou me ater a instalação do jekyll.&lt;/p&gt;
+
+&lt;p&gt;Aqui vão algumas informações sobre a máquina onde estou fazendo esse teste:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Máquina: 
+	Processador I3 com 2 cores dedicados
+	hd de 16gb
+	memória: 2048mb
+Sistema operacional: Linux Mint 19.1 64 Bits
+Ambiente Gráfico: XFCE
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Primeiro vamos instalar os pacotes básicos de desenvolvimento que são usados pelo jekyll:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt install build-essential &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Depois instalaremos o ruby com o seguinte comando:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt install ruby2.5 ruby2.5-dev rubygems-integration&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;E por fim instalaremos o Jekyllrb e o Bundler uma ferramenta muito útil para gerenciarmos o projeto com ruby.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt install jekyll bundler&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Agora vamos testar o jekyll… crie uma pasta de projeto onde você achar interessante e dentro dela vamos criar uma pasta meublog, no linux eu faria assim&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;mkdir ~/projetos/
+mkdir ~/projetos/meublog
+cd ~/projetos/meublog
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Com esses comandos eu criei as pastas projetos e meublog e acessei a pasta meublog via terminal.&lt;/p&gt;
+
+&lt;p&gt;Por fim vamos testar a instalação do Jekyll com o seguinte comando:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;$ jekyll -v&lt;/code&gt;
+Você obterá um retorno parecido com esse:
+&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll 3.1.6&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Pronto! Já estamos com o Jekyll instalado e pronto para uso, agora só precisamos baixar um modelo e iniciar o blog, no próximo post demonstrarei como fazer isso!&lt;/p&gt;
+
+&lt;p&gt;Até!&lt;/p&gt;
+
+</description>
+				<pubDate>Wed, 19 Jun 2019 00:00:00 -0300</pubDate>
+				<link>/tutoriais/2019/06/19/Instalando-o-Jekyll-no-Linux-Mint.html</link>
+				<guid isPermaLink="true">/tutoriais/2019/06/19/Instalando-o-Jekyll-no-Linux-Mint.html</guid>
+			</item>
+		
+			<item>
 				<title>Olá Mundo!</title>
 				<description>&lt;h1 id=&quot;olá-mundo&quot;&gt;&lt;strong&gt;Olá Mundo!!!&lt;/strong&gt;&lt;/h1&gt;
 

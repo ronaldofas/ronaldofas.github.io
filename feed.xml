@@ -67,9 +67,7 @@ Você obterá um retorno parecido com esse:
 		
 			<item>
 				<title>Olá Mundo!</title>
-				<description>&lt;h1 id=&quot;olá-mundo&quot;&gt;&lt;strong&gt;Olá Mundo!!!&lt;/strong&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;E vamos começar&lt;/strong&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;strong&gt;E vamos começar&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Hello World (Olá Mundo nas terras tupiniquins…) é o termo que todos os novatos em programação usam em seu primeiro programa.&lt;br /&gt;
 Quando começamos a aprender algoritmos, nossa primeira linguagem de programação ou até aprendendo uma nova linguagem, com certeza vamos fazer nosso primeiro teste com essa frase!&lt;br /&gt;

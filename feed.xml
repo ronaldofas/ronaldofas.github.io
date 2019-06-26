@@ -8,8 +8,7 @@
 		
 			<item>
 				<title>Instalando o Jekyll no Linux Mint</title>
-				<description>&lt;h1 id=&quot;instalando-o-jekyll-no-linux-mint&quot;&gt;Instalando o Jekyll no Linux Mint&lt;/h1&gt;
-&lt;p&gt;Olá!&lt;/p&gt;
+				<description>&lt;p&gt;Olá!&lt;/p&gt;
 
 &lt;p&gt;Nesse post quero documentar como instalei e configurei o Jekyllrb &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;https://jekyllrb.com/&lt;/a&gt; e assim poder criar um site estático para fazer postagens de tópicos, como esse blog em que você está lendo essa postagem.&lt;/p&gt;
 
